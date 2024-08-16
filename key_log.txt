@@ -9,3 +9,64 @@ git commit -m [Key.shift]"code for keylogger
 git push
 git sat[Key.backspace][Key.backspace]tatus
 [Key.up][Key.up][Key.up][Key.down][Key.down][Key.down][Key.down]git add .
+git commit -j[Key.backspace]m[Key.shift] " [Key.backspace]added c[Key.backspace]code for keylogger[Key.shift]"
+git push
+oolicybers[Key.backspace]git status
+sadfsfasfdsadfasfdsadfgit
+checkout
+ls
+term[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]git[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]chat
+how
+to
+change
+repo
+destination
+to
+s[Key.backspace]another
+one
+im
+not
+sure
+im
+comitting
+to
+the
+right
+repo
+git
+remog[Key.backspace]te
+-v
+[Key.up][Key.backspace][Key.shift]V
+[Key.media_volume_up][Key.media_volume_up][Key.cmd][Key.right]v[Key.cmd][Key.up][Key.left][Key.left][Key.right][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.cmd]v
+f[Key.backspace][Key.backspace]ok
+lets
+try
+c[Key.backspace]making
+a
+new
+repository
+on
+cmo[Key.backspace][Key.backspace]omand
+line
+for
+my
+file
+git
+init
+[Key.cmd][Key.shift]cafter
+the
+fr[Key.backspace]irst
+one
+it
+said
+this
+am
+i
+on
+the
+right
+trcak[Key.backspace][Key.backspace][Key.backspace]ack[Key.shift]?[Key.shift]
+[Key.cmd]v
+git
+add
+.
