@@ -1,0 +1,11 @@
+git status
+what is the terminal command to create a new dit [Key.backspace][Key.backspace][Key.backspace][Key.backspace]git repo
+git init
+igt[Key.backspace][Key.backspace][Key.backspace]git add .
+git commit -m [Key.shift]"code for keylogger 
+
+
+[Key.up][Key.up][Key.down][Key.left][Key.left][Key.left][Key.shift]"
+git push
+git sat[Key.backspace][Key.backspace]tatus
+[Key.up][Key.up][Key.up][Key.down][Key.down][Key.down][Key.down]git add .
